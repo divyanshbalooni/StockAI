@@ -1,11 +1,11 @@
-README.txt
-
+![Uploading logo.png…]()
 Project Name: StockAI
 
 Official Website: https://stockai.tech
 __________________________________________________________________________________
 
 Project Overview:
+
 StockAI is an AI-driven application that uses historical stock market data to forecast future stock prices. Designed as a tool for aspiring investors, students, and anyone interested in understanding market trends, StockAI applies machine learning models to predict the possible direction of stock prices. This predictive capability is based on patterns and insights drawn from the historical performance of various stocks.
 
 Technology Stack:
@@ -31,9 +31,7 @@ ________________________________________________________________________________
 Note:
 StockAI's predictions are based on historical data and AI can make some mistakes while processing the data.
 
-*********************************************************************************************************************************************************************************************************************************
 ***DISCLAIMER -  This website is intended for educational purposes only and should not be used for financial decision-making.***
-*********************************************************************************************************************************************************************************************************************************
 
 Contact Information:
 For any queries or feedback, kindly contact our team, 
