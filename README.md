@@ -1,4 +1,4 @@
-![Project Logo](logo.png)
+![Project Logo](logo_small.png)
 
 Project Name: StockAI
 
