@@ -1,4 +1,5 @@
-![Uploading logo.png…]()
+![Project Logo](logo.png)
+
 Project Name: StockAI
 
 Official Website: https://stockai.tech
